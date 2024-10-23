@@ -6,7 +6,7 @@
 
 ## Sobre Mim 🚀  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=22A6B3&center=true&vCenter=true&lines=Engenharia+Elétrica;Programação+em+C/C++;Jovem+Aprendiz+no+PCM" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=22A6B3&center=true&vCenter=true&lines=Engenharia+Elétrica;Circuitos+Elétricos;Sistemas+de+Controle;Automação+Industrial;Programação+em+C/C++" alt="Typing SVG">
 </p>
 
 - ⚡ **Jovem Aprendiz** no setor de **Planejamento e Controle de Manutenção (PCM)** na **Maratá**.  
@@ -61,6 +61,7 @@
 ---
 
 > “A jornada de mil milhas começa com um único passo.” – Lao Tzu  
+
 
 
 
