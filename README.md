@@ -1,16 +1,26 @@
-# 👋 Bem-vindo(a) ao Meu Perfil!
+# ⚙️ Bem-vindo(a) ao Meu Perfil!
 
-![Boas-vindas](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Engrenagem Girando">
+</p>
 
 ## Sobre Mim 🚀  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=22A6B3&center=true&vCenter=true&lines=Jovem+Aprendiz+no+PCM;Estudante+de+Engenharia+Elétrica;Apaixonado+por+tecnologia!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=22A6B3&center=true&vCenter=true&lines=Engenharia+Elétrica;Programação+em+C/C++;Jovem+Aprendiz+no+PCM" alt="Typing SVG">
 </p>
 
-- 🎓 **Jovem Aprendiz** no setor de **Planejamento e Controle de Manutenção (PCM)** na **Maratá**.  
-- 📚 Estudante de **Engenharia Elétrica** no **Instituto Federal de Sergipe (IFS)** e em cursos no **SENAI** como parte do programa Jovem Aprendiz.  
+- ⚡ **Jovem Aprendiz** no setor de **Planejamento e Controle de Manutenção (PCM)** na **Maratá**.  
+- 📚 Estudante de **Engenharia Elétrica** no **Instituto Federal de Sergipe (IFS)** e participando de cursos no **SENAI**.  
 - 🧠 Interesses: **Programação em C/C++**, **Física**, **Reconhecimento Facial** e **Gestão de Manutenção**.  
-- 🔍 Explorando como a tecnologia pode melhorar a **saúde pública** e otimizar processos em diversos setores.
+- 🔍 Explorando como a tecnologia pode melhorar a **saúde pública** e otimizar processos industriais.
+
+---
+
+## Temas e Animações Relacionados ⚡  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Engenharia Elétrica">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" alt="Código em C">
+</p>
 
 ---
 
@@ -51,6 +61,7 @@
 ---
 
 > “A jornada de mil milhas começa com um único passo.” – Lao Tzu  
+
 
 
 
