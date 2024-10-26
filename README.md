@@ -18,11 +18,11 @@
 
 ## Projetos e Aplicações ⚡  
 <p align="center">
-  <img src="https://media2.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" width="500" alt="Data Stream Animation">
+  <img src="<iframe src="https://giphy.com/embed/MZQgKvvBryA2nSeAMb"width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/unisanta-engenharia-eltrica-unisanta-MZQgKvvBryA2nSeAMb">via GIPHY</a></p>" width="500" alt="Data Stream Animation">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Coding Animation">
 </p>
 
----
+
 
 ## O que Você Vai Encontrar Aqui 📂  
 - **📕 Projetos Acadêmicos:** Trabalhos e experiências em monitorias e estudos.  
@@ -62,10 +62,3 @@
 
 > “A jornada de mil milhas começa com um único passo.” – Lao Tzu
 
-
-
-
-<!---
-Eng-Paulo-Gabriel/Eng-Paulo-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
