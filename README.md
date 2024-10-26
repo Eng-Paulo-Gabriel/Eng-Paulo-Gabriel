@@ -16,7 +16,7 @@
 
 ---
 
-## Temas e Animações Relacionados ⚡  
+##  ⚡  
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Engenharia Elétrica">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" alt="Código em C">
